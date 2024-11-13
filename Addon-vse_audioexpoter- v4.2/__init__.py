@@ -72,7 +72,7 @@ class ExportAudioOperator(bpy.types.Operator):
                 sample_rate = scene.export_audio_sample_rate
                 bit_rate = scene.export_audio_bit_rate
                 
-                # Set render settings
+                # Set render Properties
                 scene.render.image_settings.file_format = 'FFMPEG'
                 scene.render.ffmpeg.audio_codec = audio_container
                 scene.render.ffmpeg.audio_bitrate = bit_rate
