@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+id = "audio_exporter"
+name = "Audio Exporter"
+version = "1.0.0"
+tagline = "ExportAudio with customOptions, ChannelMapping, SpeakerArrangements."
+maintainer = "Dinesh"
+type = "add-on"
+tags = ["Sequencer"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+website = "https://extensions.blender.org/author/139/"
+copyright = ["2024 Dinesh"]
