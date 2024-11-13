@@ -10,6 +10,7 @@
 Streamline your audio export workflow within Blender's Video Sequence Editor (VSE). Export audio strips individually or as a single, combined file with extensive customizations. Choose from MP3, FLAC, AC3, or MP2 formats and set sample rates, bit rates, and speaker configurations (stereo, 5.1, or 7.1). Gain control over audio channel mapping with advanced speaker arrangements to suit both simple and surround sound projects.  
   
 **Location:** Sequencer > Audio Export (Tab)
+![UI](https://github.com/user-attachments/assets/63c1d0b7-9553-4983-81a8-75d3d5c6e429)
 
 ---
 
